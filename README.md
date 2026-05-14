@@ -2,7 +2,8 @@
 
 A modern, high-performance interactive map designed to showcase VIP-KAART offers and benefits. This application provides a premium user experience with a focus on mobile responsiveness and clean aesthetics.
 
-![Interactive Map Demo](https://raw.githubusercontent.com/your-username/your-repo/main/screenshot.png) *(Note: Replace with your actual screenshot)*
+![Map Screenshot 1](./screenshot1.png)
+![Map Screenshot 2](./screenshot3.png)
 
 ---
 
